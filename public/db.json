@@ -1,0 +1,92 @@
+{
+    "weatherdata": [
+        {
+            "id": 1,
+            "locationName": "Delhi",
+            "temperature": 21,
+            "humidity": 55,
+            "windSpeed": 5,
+            "weatherDescription": "Rainy",
+            "sunriseTime": "06:20 AM",
+            "sunsetTime": "06:50 PM",
+            "uvIndex": "Moderate ( 3 )"
+        },
+        {
+            "id": 2,
+            "locationName": "Kathmandu",
+            "temperature": 30,
+            "humidity": 65,
+            "windSpeed": 10,
+            "weatherDescription": "Sunny",
+            "sunriseTime": "06:15 AM",
+            "sunsetTime": "06:45 PM",
+            "uvIndex": "High ( 7 )"
+        },
+        {
+            "id": 3,
+            "locationName": "New York City",
+            "temperature": -5,
+            "humidity": 70,
+            "windSpeed": 12,
+            "weatherDescription": "Snowy",
+            "sunriseTime": "06:30 AM",
+            "sunsetTime": "07:00 PM",
+            "uvIndex": "Low ( 1 )"
+        },
+        {
+            "id": 4,
+            "locationName": "London",
+            "temperature": 24,
+            "humidity": 80,
+            "windSpeed": 8,
+            "weatherDescription": "Cloudy",
+            "sunriseTime": "07:15 AM",
+            "sunsetTime": "06:45 PM",
+            "uvIndex": "Moderate ( 3 )"
+        },
+        {
+            "id": 5,
+            "locationName": "Tokyo",
+            "temperature": 23,
+            "humidity": 60,
+            "windSpeed": 10,
+            "weatherDescription": "Rainy",
+            "sunriseTime": "05:45 AM",
+            "sunsetTime": "06:30 PM",
+            "uvIndex": "Low ( 2 )"
+        },
+        {
+            "id": 6,
+            "locationName": "Sydney",
+            "temperature": 32,
+            "humidity": 50,
+            "windSpeed": 15,
+            "weatherDescription": "Sunny",
+            "sunriseTime": "06:00 AM",
+            "sunsetTime": "07:15 PM",
+            "uvIndex": "Extreme ( 12 )"
+        },
+        {
+            "id": 7,
+            "locationName": "Paris",
+            "temperature": 1,
+            "humidity": 75,
+            "windSpeed": 7,
+            "weatherDescription": "Snowy",
+            "sunriseTime": "07:00 AM",
+            "sunsetTime": "07:30 PM",
+            "uvIndex": "Low ( 1 )"
+        },
+        {
+            "id": 8,
+            "locationName": "Beijing",
+            "temperature": 16,
+            "humidity": 70,
+            "windSpeed": 10,
+            "weatherDescription": "Cloudy",
+            "sunriseTime": "06:10 AM",
+            "sunsetTime": "07:20 PM",
+            "uvIndex": "Moderate ( 5 )"
+        }
+    ]
+}
